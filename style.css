@@ -166,3 +166,38 @@ body{
     display: flex;
     gap: 30px;
 }
+.bt3{
+    border: none;
+    background-color: #3771C8;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 5px;
+}
+.dc8{
+    border: 2px solid rgb(236, 236, 236);
+    width: 411px;
+    border-radius: 17px;
+}
+.dc9{
+    display: flex;
+    max-width: 1280px;
+    margin: auto;
+    justify-content: space-between;
+}
+.bt4{
+    display: flex;
+    background-color: white;
+    width: 480px;
+    border-radius: 50px;
+    
+}
+.dc10{
+    background-color: #EAECEB;
+    display: flex;
+    align-items: center;
+    max-width: 1220px;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin: auto;
+    padding: 0px 0px 0px 60px;
+}
