@@ -85,3 +85,31 @@ body{
     font-size: 50px;
     left: 300px;
 }
+.tag{
+    border-radius: 10px;
+    border: 1px solid #F9D15C;
+    padding: 1px;
+    width: 100px;
+    
+}
+.dv9{
+    display: flex;
+    max-width: 1280px;
+    margin: auto;
+   
+    align-items: end;
+    justify-content: space-between;
+}
+.dv10{
+    box-shadow: 0px 0px 5px #e6e6e6ed;
+    width: 280px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+}
+.dc1{
+    display: flex;
+    max-width: 1280px;
+    margin: auto;
+    justify-content: space-between;
+}
