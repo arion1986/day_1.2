@@ -201,3 +201,9 @@ body{
     margin: auto;
     padding: 0px 0px 0px 60px;
 }
+.foot{
+    display: flex;
+    max-width: 1110px;
+    margin: auto;
+    justify-content: space-between;
+}
